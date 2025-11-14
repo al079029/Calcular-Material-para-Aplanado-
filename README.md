@@ -1,4 +1,4 @@
-# Calcular-Material-para-Aplanado-
+# Calcular-Material-Para-Aplanado
 
 Este proyecto permite calcular de manera automática la cantidad de materiales necesarios para realizar un aplanado o rebocado de muro, siguiendo los parámetros establecidos por la Norma Mexicana de Construcción (NMX-C-486-ONNCCE-2014), que recomienda una proporción 1:4 (cemento:arena) para morteros de recubrimiento.
 
